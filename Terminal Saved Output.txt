@@ -1,0 +1,98 @@
+Last login: Sun Sep 24 19:51:03 on ttys002
+You have mail.
+sifanwang@sifanwangs-MBP ~ % /usr/libexec/java_home -V
+
+Matching Java Virtual Machines (1):
+    19.0.2 (x86_64) "Homebrew" - "OpenJDK 19.0.2" /usr/local/Cellar/openjdk/19.0.2/libexec/openjdk.jdk/Contents/Home
+/usr/local/Cellar/openjdk/19.0.2/libexec/openjdk.jdk/Contents/Home
+sifanwang@sifanwangs-MBP ~ % export JAVA_HOME=$(/usr/libexec/java_home -v 17)
+
+sifanwang@sifanwangs-MBP ~ % nano ~/.zshrc export JAVA_HOME=$(/usr/libexec/java_home -v 17)
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                                                                                File: /Users/sifanwang/.zshrc                                                                                                                   
+
+export PATH="/usr/local/opt/openjdk@17/bin:$PATH"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                                  ^O WriteOut                                  ^R Read File                                 ^Y Prev Pg                                   ^K Cut Text                                  ^C Cur Pos                                   
+^X Exit                                      ^J Justify                                   ^W Where is                                  ^V Next Pg                                   ^U UnCut Text                                ^T To Spell                                 
